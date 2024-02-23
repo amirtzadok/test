@@ -1,0 +1,1 @@
+<model-viewer src="58280_EVEN CESAR_block.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1" exposure="0.83"> </model-viewer>
